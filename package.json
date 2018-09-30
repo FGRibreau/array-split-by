@@ -1,7 +1,7 @@
 {
   "name": "splitby",
   "description": "This function is like [split](https://lodash.com/docs/4.17.10#split) except that it accepts iteratee which is invoked for each element in array to generate the criterion by which the separation is computed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Francois-Guillaume Ribreau",
     "email": "npm@fgribreau.com",
