@@ -1,3 +1,12 @@
 node_modules
 npm-debug.log
 .env
+coverage/
+.vscode
+.nyc_output
+.circleci/
+*.test.js
+.jshintrc
+.jsbeautifyrc
+.editorconfig
+.checkbuild
