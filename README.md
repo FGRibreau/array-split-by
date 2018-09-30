@@ -4,7 +4,7 @@
 
 ------------------------------------------------
 
-[![Build Status](https://img.shields.io/circleci/project/FGRibreau/splitby.svg)](https://circleci.com/gh/FGRibreau/splitby/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/splitBy/master.svg)](https://coveralls.io/github/FGRibreau/splitBy?branch=master) [![Deps](	https://img.shields.io/david/FGRibreau/array-split-by.svg)](https://david-dm.org/FGRibreau/array-split-by) [![NPM version](https://img.shields.io/npm/v/array-split-by.svg)](http://badge.fury.io/js/array-split-by)
+[![Build Status](https://img.shields.io/circleci/project/FGRibreau/array-split-by.svg)](https://circleci.com/gh/FGRibreau/array-split-by/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/splitBy/master.svg)](https://coveralls.io/github/FGRibreau/splitBy?branch=master) [![Deps](	https://img.shields.io/david/FGRibreau/array-split-by.svg)](https://david-dm.org/FGRibreau/array-split-by) [![NPM version](https://img.shields.io/npm/v/array-split-by.svg)](http://badge.fury.io/js/array-split-by)
 
 <!-- [![Downloads](http://img.shields.io/npm/dm/array-split-by.svg)](https://www.npmjs.com/package/array-split-by) -->
 
