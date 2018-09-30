@@ -4,7 +4,7 @@
 
 ------------------------------------------------
 
-[![Build Status](https://img.shields.io/circleci/project/FGRibreau/splitby.svg)](https://circleci.com/gh/FGRibreau/splitby/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/splitby/master.svg)](https://coveralls.io/github/FGRibreau/splitby?branch=master) [![Deps](	https://img.shields.io/david/FGRibreau/splitby.svg)](https://david-dm.org/FGRibreau/splitby) [![NPM version](https://img.shields.io/npm/v/splitby.svg)](http://badge.fury.io/js/splitby) [![Downloads](http://img.shields.io/npm/dm/splitby.svg)](https://www.npmjs.com/package/splitby)
+[![Build Status](https://img.shields.io/circleci/project/FGRibreau/splitby.svg)](https://circleci.com/gh/FGRibreau/splitby/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/splitby/master.svg)](https://coveralls.io/github/FGRibreau/splitby?branch=master) [![Deps](	https://img.shields.io/david/FGRibreau/array-split-by.svg)](https://david-dm.org/FGRibreau/array-split-by) [![NPM version](https://img.shields.io/npm/v/array-split-by.svg)](http://badge.fury.io/js/array-split-by) [![Downloads](http://img.shields.io/npm/dm/array-split-by.svg)](https://www.npmjs.com/package/array-split-by)
 
 [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/francois-guillaume-ribreau?utm_source=github&utm_medium=button&utm_term=francois-guillaume-ribreau&utm_campaign=github)  [![available-for-advisory](https://img.shields.io/badge/available%20for%20consulting%20advisory-yes-ff69b4.svg?)](http://bit.ly/2c7uFJq) ![extra](https://img.shields.io/badge/actively%20maintained-yes-ff69b4.svg)
 
@@ -29,7 +29,7 @@ Install with [npm](https://npmjs.org/package/splitby).
 ### Example
 
 ```javascript
-const splitBy = require('splitby');
+const splitBy = require('array-split-by');
 
 splitBy([1, 2, 3, "|", 4, 5, 6], val => val === "|"); // [[1, 2, 3], [4, 5, 6]]
 
