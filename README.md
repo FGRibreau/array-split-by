@@ -1,5 +1,5 @@
 <div align="center">
-  <br><p><strong>splitBy</strong> - `splitBy(array, iteratee)`</p>
+  <br><p><strong>array-split-by</strong> - `splitBy(array, iteratee)`</p>
 </div>
 
 ------------------------------------------------
