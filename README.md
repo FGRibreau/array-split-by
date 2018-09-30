@@ -23,7 +23,7 @@ Like [String.prototype.split](https://developer.mozilla.org/en-US/docs/Web/JavaS
 
 Install with [npm](https://npmjs.org/package/splitby).
 
-    npm install --save splitby
+    npm install --save array-split-by
 
 
 ### Example
