@@ -44,6 +44,6 @@ describe("splitBy", () => {
         ],
         val => !val.a
       )
-    ).toEqual([[1], [3]]);
+    ).toEqual([[{ a: true, x: 0 }, { a: true, x: 1 }], [{ a: true, x: 1 }]]);
   });
 });
