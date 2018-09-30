@@ -41,6 +41,11 @@ splitBy([{x:0, a:true}, {x:1, a:true}, {x:2, a:false}, {x:1, a:true}], (val) => 
 
 ## [Changelog](CHANGELOG.md)
 
+## CI
+
+- set the env. variable `COVERALLS_REPO_TOKEN`, create it with: https://coveralls.io/
+
+
 ## You want to support my work?
 
 I maintain this project in my free time, if it helped you, well, I would be grateful to buy a beer thanks to your [paypal](https://paypal.me/fgribreau) or [Bitcoins](https://www.coinbase.com/fgribreau), donation!

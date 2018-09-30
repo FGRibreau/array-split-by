@@ -4,8 +4,7 @@ jobs:
     docker:
       # specify the version you desire here
       - image: circleci/node:10-stretch
-
-   steps:
+    steps:
       - checkout
 
       # Download and cache dependencies
