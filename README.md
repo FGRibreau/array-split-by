@@ -12,10 +12,6 @@
 
 <!-- ![NPM](https://nodei.co/npm/splitby.png?downloadRank=true) ![NPM](https://nodei.co/npm-dl/splitby.png?months=3&height=2) -->
 
-## Usage
-
-Like [String.prototype.split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) except that it works on array and accepts an iteratee which is invoked for each element in array to generate the criterion by which the separation is computed. The order of result values is determined by the order they occur in the array. The iteratee is invoked with three argument: `(value, index, chunk, array)`
-
 ## Sponsors
 
 <table>
@@ -43,8 +39,8 @@ Like [String.prototype.split](https://developer.mozilla.org/en-US/docs/Web/JavaS
     </td>
     <td align="center" width="175">
       <a href="https://netir.fr/?mtm_source=github&mtm_medium=sponsor&mtm_campaign=netir&mtm_content=array-split-by">
-        <img src="assets/sponsors/netir.svg" height="60" alt="NetIR"/><br/>
-        <b>NetIR</b>
+        <img src="assets/sponsors/netir.svg" height="60" alt="Netir"/><br/>
+        <b>Netir</b>
       </a><br/>
       <sub>Hire vetted French freelance devs or list yourself on the marketplace.</sub>
     </td>
@@ -75,6 +71,10 @@ Like [String.prototype.split](https://developer.mozilla.org/en-US/docs/Web/JavaS
 </table>
 
 > **Interested in sponsoring?** [Get in touch](mailto:rust@fgribreau.com)
+
+## Usage
+
+Like [String.prototype.split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) except that it works on array and accepts an iteratee which is invoked for each element in array to generate the criterion by which the separation is computed. The order of result values is determined by the order they occur in the array. The iteratee is invoked with three argument: `(value, index, chunk, array)`
 
 ## Installation
 
